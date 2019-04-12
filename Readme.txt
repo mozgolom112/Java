@@ -1,1 +1,2 @@
 Try init
+init
